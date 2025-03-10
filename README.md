@@ -1,13 +1,13 @@
-# Olá 🌹
+# 🍁 Olá
 
 <img align="right" alt="Gato no PC" src="https://media.tenor.com/5JvQT8QT-iMAAAAM/cat-listening-to-music-black-cat.gif"  width="300px"/>
 
 - Estudante de Programação ✍🏿
 - Iniciante em HTML e JavaScript 💻
 - Estudante em desing 🌊
-- Trabalhando para acontecer 🦔
+- Trabalhando para acontecer 🧬
 
-### 🍁 Minhas Redes
+### 🦔 Minhas Redes
 
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/@whosbrendo)
 
