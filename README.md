@@ -35,5 +35,3 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=KamiahAlves&style=for-the-badge&color=lightgrey"/>
   </a>
 </p>
-- ⚡ Fun fact: ...
--->
