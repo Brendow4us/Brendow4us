@@ -1,6 +1,6 @@
 # 🍁 Olá
 
-<img align="right" alt="Gato no PC" src="https://media.tenor.com/5JvQT8QT-iMAAAAM/cat-listening-to-music-black-cat.gif"  width="300px"/>
+<img align="right" alt="Gato no PC" src="https://media.tenor.com/5JvQT8QT-iMAAAAM/cat-listening-to-music-black-cat.gif](https://onlinepngtools.com/images/examples-onlinepngtools/sunset.gif"  width="300px"/>
 
 - Estudante de Programação ✍🏿
 - Iniciante em HTML e JavaScript 💻
