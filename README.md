@@ -1,6 +1,6 @@
 # 🍁 Olá
 
-<img align="right" alt="sol" src="https://onlinepngtools.com/images/examples-onlinepngtools/sunset.gif"  width="300px"/>
+<img align="right" alt="sol" src="https://media.tenor.com/0EDznml5BDAAAAAj/cat-spinning.gif"  width="300px"/>
 
 - Estudante de Programação ✍🏿
 - Iniciante em HTML e JavaScript 💻
